@@ -1,0 +1,30 @@
+.about {
+    height: 50vh;
+    background-image:  url(images/2.PNG) ;
+    background-size: cover;
+    width: 80%;
+    margin: auto;
+    border: 10px solid white;
+    border-radius: 10px;
+}
+
+/* second advert section */
+.advert2{
+    height: 540px;
+    /* background-image: url(images/camera2.jpeg); */
+
+    background: rgb(247,247,247);
+    background: linear-gradient(to right, #752727bb, rgba(142, 71, 65, 0.598)), url(images/100\ Chapter\ Books\ You\ MUST\ Read\ to\ Your\ Children!!.jpg);
+    background-size: cover;
+    background-position: center;    
+    width: 100%;
+}
+.ad-text2{
+    padding-top: 300px;
+}
+
+
+
+.footerg{
+    background-color: black;
+}
